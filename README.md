@@ -1,6 +1,6 @@
 # Slider_Trick12
 
-**If you want to see a slider, check out my code ♥️🔄**
+**If you want to see a slider, check out my code ♥️🌌**
 
 
 - 🔗 [Demo Project]()
