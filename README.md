@@ -2,6 +2,8 @@
 
 **If you want to see a slider, check out my code ♥️🌌**
 
+https://github.com/Mehrsa-Mohajeri-Developer/Slider_Trick12/assets/145048780/c4ff1809-db76-4802-b80f-7fd092b81d81
+
 
 - 🔗 [Demo Project](https://mehrsa-mohajeri-developer.github.io/Slider_Trick12/)
   
