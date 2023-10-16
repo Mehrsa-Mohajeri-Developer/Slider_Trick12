@@ -3,7 +3,7 @@
 **If you want to see a slider, check out my code ♥️🌌**
 
 
-- 🔗 [Demo Project]()
+- 🔗 [Demo Project](https://mehrsa-mohajeri-developer.github.io/Slider_Trick12/)
   
 - 👩🏻‍💻 Developed by Mehrsa Mohajeri
 
