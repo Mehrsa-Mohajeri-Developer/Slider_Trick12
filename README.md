@@ -11,7 +11,7 @@ https://github.com/Mehrsa-Mohajeri-Developer/Slider_Trick12/assets/145048780/c4f
 
 - 📆 Created: 2023-10-6
 
-- ✔️ Technologies Used: HTML, CSS, SASS
+- ✔️ Technologies Used: HTML, CSS, SASS, Animation-CSS
 
 - 💥 Role: Front-End
 
